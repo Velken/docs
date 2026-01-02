@@ -77,6 +77,8 @@ The pAI starts with 30 memory avaiable to buy modules,
   - Categories:
     - Generic:
       - Station Map
+	  - Music (basic midiplayer)
+	  - Mass Scanner
     - Medical:
       - Crew Monitor
     - Engineering:
@@ -84,13 +86,13 @@ The pAI starts with 30 memory avaiable to buy modules,
 	  - Atmospheric Network
 	  - Atmospheric Alerts
     - Service:
-      - TODO
+      - Music+ (has a bunch of intrusment options)
     - Cargo:
-      - Cargo Bounty (no printer?)
+      - Cargo Bounty (with printer?)
 	- Syndicate:
-	  - TODO
+	  - Pinpointer (maybe for like, 25 Memory?)
 	- Science:
-	  - TODO
+	  - Anomaly locator
 	- Security:
 	  - Criminal Records
 	  
