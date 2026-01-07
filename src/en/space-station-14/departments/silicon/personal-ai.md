@@ -82,8 +82,7 @@ The pAI starts with 30 memory avaiable to buy modules,
     - Medical:
       - Crew Monitor
     - Engineering:
-      - Power Monitoring
-	  - Atmospheric Network
+	  - T-Ray Scanner
 	  - Atmospheric Alerts
     - Service:
       - Music+ (has a bunch of intrusment options)
