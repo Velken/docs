@@ -21,7 +21,7 @@ Github links can include multiple PRs, if relevant.
 This is for the ghost role pAI - which is to help answer any frequently asked questions for pAIs and to help others understand what the pAIs are about.
 
 Personal AIs in short are helpers to their holders, and are meant to give assistant to their owner.
-A pAI is not only a companion, but also a sapient tool for their owner.
+A pAI are not proper silicion, but a companion that acts as a sapient tool-secretary for their owner.
 
 ## Background
 
@@ -49,7 +49,7 @@ TODO() //Someone fill this please
 
 Personal AIs need more abilities to be purchasable, as their current options is very limited.
 
-The plan is to add more abilities, tied to the PDA the pAI is inserted to, and those abilities become unusable while not in their respective PDA.
+Some of the pAIs abilities are locked from the store if they don't have the valid corresponding access in the ID that is inserted with them in the PDA. And become unable to use said abilities while not having the required access.
 For example: a pAI in a medical staff's PDA, can spend memory to buy a crew monitor. But if they are taken out of the PDA and/or put in a non-medical PDA, that ability no longer becomes usable, but they do NOT get a refund for the spent memory.
 
 
@@ -87,9 +87,9 @@ The pAI starts with 30 memory avaiable to buy modules,
     - Service:
       - Music+ (has a bunch of intrusment options)
     - Cargo:
-      - Cargo Bounty (with printer?)
+      - Cargo Bounty (with printer, and if they have QM access, they can even skip)
 	- Syndicate:
-	  - Pinpointer (maybe for like, 25 Memory?)
+	  - Nuke Pinpointer (maybe for like, 25 Memory?)
 	- Science:
 	  - Anomaly locator
 	- Security:
