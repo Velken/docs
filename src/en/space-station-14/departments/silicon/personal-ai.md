@@ -89,7 +89,7 @@ The pAI starts with 30 memory avaiable to buy modules,
     - Cargo:
       - Cargo Bounty (with printer, and if they have QM access, they can even skip)
 	- Syndicate:
-	  - Nuke Pinpointer (maybe for like, 25 Memory?)
+	  - TODO()
 	- Science:
 	  - Anomaly locator
 	- Security:
