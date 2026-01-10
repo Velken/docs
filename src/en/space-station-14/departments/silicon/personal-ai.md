@@ -79,10 +79,10 @@ The pAI starts with 30 memory avaiable to buy modules,
       - Station Map
 	  - Music (basic midiplayer)
 	  - Mass Scanner
+      - T-Ray Scanner
     - Medical:
       - Crew Monitor
     - Engineering:
-	  - T-Ray Scanner
 	  - Atmospheric Alerts
     - Service:
       - Music+ (has a bunch of intrusment options)
@@ -91,7 +91,7 @@ The pAI starts with 30 memory avaiable to buy modules,
 	- Syndicate:
 	  - TODO()
 	- Science:
-	  - Anomaly locator
+	  - Research and Development
 	- Security:
 	  - Criminal Records
 	  
